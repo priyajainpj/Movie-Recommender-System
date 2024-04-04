@@ -15,3 +15,4 @@ The Movie Recommender System employs content-based filtering to recommend movies
 
 # Dataset
 The dataset used in this project contains information on 5000 movies, including titles, genres, descriptions, and more. This diverse dataset allows for a wide range of movie recommendations based on various genres, themes, and plot elements.
+![image](https://github.com/priyajainpj/Movie-Recommender-System/assets/123941692/18f103c1-9357-4375-bf4c-94b9797c63e4)
